@@ -37,7 +37,7 @@ When I'm not coding, you'll find me learning new tech skills, building projects,
 Clone the repository:
 
 ```bash
-git clone https://github.com/abhisheksi-ngh/my-expense-manage
+git clone https://github.com/abhisheksi-ngh/expense-tracker-mern
 cd expense-tracker-mern
 
 
